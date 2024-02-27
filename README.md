@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Mikhail
 
-<!--
-**RussianPostman/RussianPostman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python backend developer</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My tech stack:
+
+- Python, Django, Celery, PostgreSQL, SQLite, SQLAlchemy, Selenium, Apache Airflow
+- Docker, asyncio, REST API, Nginx
+- Google Cloud Platform, DBeaver, BeautifulSoup4
+
+My contacts:
+
+- Telegram - <a href="https://t.me/Russian_Postman" target="_blank">@Vadim_Volkovsky</a> 
+- LinkedIn - <a href="https://www.linkedin.com/in/михаил-усенко-12b025274/" target="_blank">Vadim Volkovsky</a> 
+
