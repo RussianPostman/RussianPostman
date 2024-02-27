@@ -11,6 +11,6 @@ My tech stack:
 
 My contacts:
 
-- Telegram - <a href="https://t.me/Russian_Postman" target="_blank">@Vadim_Volkovsky</a> 
-- LinkedIn - <a href="https://www.linkedin.com/in/михаил-усенко-12b025274/" target="_blank">Vadim Volkovsky</a> 
+- Telegram - <a href="https://t.me/Russian_Postman" target="_blank">@Russian_Postman</a> 
+- LinkedIn - <a href="https://www.linkedin.com/in/михаил-усенко-12b025274/" target="_blank">Mikhail Usenko</a> 
 
